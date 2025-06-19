@@ -8,3 +8,6 @@
 
 Модель plate_detection обучена на 11000 фотографий, датасет был взят с roboflow
 Модель best обучена на 800 фотографиях
+
+Модели:
+https://drive.google.com/drive/folders/1zOlIfDHj4YthH8IboSjwoRbOFQLWpQuM?usp=sharing
